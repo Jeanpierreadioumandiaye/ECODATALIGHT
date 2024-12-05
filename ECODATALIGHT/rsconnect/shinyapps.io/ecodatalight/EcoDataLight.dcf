@@ -1,0 +1,10 @@
+name: EcoDataLight
+title: ecodatalight
+username: ecodatalight
+account: ecodatalight
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13495267
+bundleId: 9469548
+url: https://ecodatalight.shinyapps.io/EcoDataLight/
+version: 1
