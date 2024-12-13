@@ -1,5 +1,5 @@
 EcoDataLight est une plateforme interactive conçue pour offrir des visualisations dynamiques et des analyses des indicateurs macroéconomiques du Sénégal. 
 À l'aide de données sur la luminosité nocturne, les performances économiques régionales, les taux de chômage et d'autres indicateurs clés, EcoDataLight  vous permet d'explorer les disparités régionales et d'identifier les tendances économiques et sociales.
-Voici le lien : https://ecodatalight.shinyapps.io/EcoDataLight/
-
+Pour le déploiement nous vous invitons à cliquer sur le lien suivant https://ecodatalight.shinyapps.io/EcoDataLight/
+Egalement, dans le dossier soumis dans le gitlab de l'ANSD, il y a un fichier R nommé app que vous pouvez ouvrir et ensuite cliquer sur RunApp pour voir l'application en local.
 
